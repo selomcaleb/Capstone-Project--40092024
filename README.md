@@ -6,11 +6,6 @@ This project aims to streamline the admissions process at Ashesi University by r
 ## Link
 https://github.com/selomcaleb/Capstone-Project--40092024.git
 
-## Objectives
-- Aptitude to demonstrate skills acquired during the previous sessions in both classroom and outside classroom environments.
-- Ability to build and simulate OS system programs.
-- Capacity to implement low level systems that solve modern-day real-world problems using different methodologies and algorithms.
-- Techniques of testing system programs
 
 ## Features
 - Google Document AI API: Extracts text and data from scanned WASSCE result sheets using advanced machine learning models, converting them into structured formats.
