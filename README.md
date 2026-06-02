@@ -1,4 +1,4 @@
-# Capstone-Project--40092024
+# College Admission Prediction System
 
 ## Description
 This project aims to streamline the admissions process at Ashesi University by reducing the workload on admissions recruiters. Specifically, the project implements an optical character recognition (OCR) model to automate the extraction and analysis of student grades from the West African Senior School Certificate Examination (WASSCE). The system leverages Google Document AI API for text and data extraction from scanned documents, and a Streamlit application serves as the user interface for admissions officers.
